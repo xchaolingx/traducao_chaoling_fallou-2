@@ -1,5 +1,5 @@
 # traducao_chaoling_fallou-2
-"Tradução Chaoling" completa em português brasil do jogo Fallou 2 com patch Restoration 2.3.3 instalado.
+"Tradução Chaoling" completa  do jogo Fallou 2 com patch Restoration 2.3.3 instalado.
 
 Portugueses - "Tradução Chaoling" são patchs de traduções feitas pelo Google Translator para jogos que provavelmente não serão traduzidos para diversos idiomas menos populares. Isso tem objetivo de facilitar o acesso ao jogos e aos arquivos para quem pretende contribuir mas não sabe como fazer isso. Se quiser traduzir para alguem idioma use nosso patch que vem com instruções simples para qualquer pessoas fazer isso usando Google Translator.Por favor deixo o credito se usa nossos arquivos para ajudar divulgar esse projeto. Em todos os patch "Tradução Chaoling" deixaremos um arquivo LEI-ME com instruções de como inserir os arquivos no jogo e também dicas para quem vai RE-traduzir os textos.
 
